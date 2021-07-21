@@ -7,9 +7,9 @@
 
 
 
-##1. 스터디 소개
+## 1. 스터디 소개
 
-####1) Members (@DSBA Lab )
+#### 1) Members (@DSBA Lab )
 
 고려대학교 산업경영공학과 Data Science & Business Analytics Lab [[HomePage](http://dsba.korea.ac.kr/)] [[Youtube](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg/videos)] 
 
@@ -42,7 +42,7 @@
 
 
 
-####3) 스터디 기간 : 2021/7/7 ~ 2021/7/30
+#### 3) 스터디 기간 : 2021/7/7 ~ 2021/7/30
 
 * 7/7 ~ 7/18 : 논문 개인 공부
 * 7/19 ~ 7/29 : 스터디 진행
