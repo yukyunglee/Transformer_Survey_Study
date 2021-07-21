@@ -56,36 +56,42 @@
 
 >- 영상 / 발표자료
 >- 주제 : Vanilla Transformer
+>- 스터디 진행 : 7/20
 >- 발표자 : 김수빈 석사과정
 
 **02) Module-level : Attention 1 (6~11 Page)**
 
 >- 영상 / 발표자료
 >- 주제 : Sparse Attention
+>- 스터디 진행 : 7/21
 >- 발표자 : 윤훈상 석사과정
 
 **03) Module-level : Attention 2  (11~15 Page)**
 
 >- 영상 / 발표자료
 >- 주제 : 
+>- 스터디 진행 :
 >- 발표자 : 김지나 석박통합과정
 
 **04) Module-level : Attention 3  (15~20 Page)**
 
 >- 영상 / 발표자료
 >- 주제 : 
+>- 스터디 진행 :
 >- 발표자 : 이유경 석박통합과정
 
 **05) Module-level : Others  (20~26 Page)**
 
 >- 영상 / 발표자료
 >- 주제 : 
+>- 스터디 진행 :
 >- 발표자 : 허재혁 석사과정
 
 **06) Arch.-level ~ end  (26~33 Page)**
 
 >- 영상 / 발표자료
 >- 주제 : 
+>- 스터디 진행 :
 >- 발표자 : 김명섭 석박통합과정
 
 
