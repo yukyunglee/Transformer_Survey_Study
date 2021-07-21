@@ -1,4 +1,4 @@
-# Transformer_Survey_Paper_Study
+# 🤗 Transformer_Survey_Paper_Study 🤗
 ![main](./img/tss_main.png)
 
 **"A survey of Transformer"** paper study @DSBA Lab
@@ -104,7 +104,6 @@
    - 모르는 부분을 채우기 위해 기본적이고 쉬운 질문도 주고받을 수 있습니다
    - 어떤 쉬운 질문을 하더라도 진지하게 논의합니다
 2. 질문을 대하는 태도
-   - 해당 챕터의 발표자에게 태클 거는 방식으로 질문 할 경우 스터디 진행자(이유경)가 제재 합니다
    - 질문은 최대한 예의를 갖추어 질문합니다
 3. 발표 자료 퀄리티
    - 발표자료는 세미나처럼 성의를 담아 구성합니다
