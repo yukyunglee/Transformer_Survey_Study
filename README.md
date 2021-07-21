@@ -76,7 +76,7 @@
 >- 주제 : 
 >- 발표자 : 이유경 석박통합과정
 
-**05) Module-level : Others  (20~26 Page) **
+**05) Module-level : Others  (20~26 Page)**
 
 >- 영상 / 발표자료
 >- 주제 : 
