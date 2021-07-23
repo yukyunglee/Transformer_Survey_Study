@@ -62,7 +62,8 @@
 **02) Module-level : Attention 1 (6~11 Page)**
 
 >- 영상 / 발표자료
->- 발표자료:[Sparse Attention](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/A%20survey%20of%20Transformers_02_Sparse_Attention.pdf)
+>  - 영상링크:
+>  - 발표자료: [Sparse Attention 발표 자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/A%20survey%20of%20Transformers_02_Sparse_Attention.pdf)
 >- 주제 : Sparse Attention
 >- 스터디 진행 : 7/21
 >- 발표자 : 윤훈상 석사과정
