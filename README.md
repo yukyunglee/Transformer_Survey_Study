@@ -75,9 +75,9 @@
 
 **04) Module-level : Attention 3  (15~20 Page)**
 
->- 영상 / 발표자료
->- 주제 : 
->- 스터디 진행 :
+>- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/eea1533802a9edf4c6cb2adc384900f85f38f9df/Presentation/TSS_%234_Lowrank_Prior_Improved_Attention.pdf.pdf)
+>- 주제 : LowRank SeltAttention / Attention with Prior / Improved Multi-Head Mechanism
+>- 스터디 진행 : 7/28
 >- 발표자 : 이유경 석박통합과정
 
 **05) Module-level : Others  (20~26 Page)**
@@ -94,7 +94,12 @@
 >- 스터디 진행 :
 >- 발표자 : 김명섭 석박통합과정
 
+**07) Appendix : 당신이 모르는 transformer의 3가지 사실**
 
+>- 영상 / 발표자료
+>- 주제 : [Transformer] Compleixy, Parameters, and Scaling
+>- 스터디 진행 : 7/28
+>- 발표자 : 김명섭 석박통합과정
 
 
 
