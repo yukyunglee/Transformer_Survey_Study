@@ -68,9 +68,9 @@
 
 **03) Module-level : Attention 2  (11~15 Page)**
 
->- 영상 / 발표자료
->- 주제 : 
->- 스터디 진행 :
+>- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TSS_%233_Attention%232.pdf)
+>- 주제 : Linearized / Prototype / Memory Compress Attention
+>- 스터디 진행 : 7/27
 >- 발표자 : 김지나 석박통합과정
 
 **04) Module-level : Attention 3  (15~20 Page)**
@@ -82,16 +82,16 @@
 
 **05) Module-level : Others  (20~26 Page)**
 
->- 영상 / 발표자료
->- 주제 : 
->- 스터디 진행 :
+>- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TSS_%235_Other_Module_Level_Modifications.pdf)
+>- 주제 : Position Encoding / LayerNorm / FFN
+>- 스터디 진행 : 7/29
 >- 발표자 : 허재혁 석사과정
 
 **06) Arch.-level ~ end  (26~33 Page)**
 
->- 영상 / 발표자료
->- 주제 : 
->- 스터디 진행 :
+>- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TTS_%236_Architectur_Level_Varient.pdf)
+>- 주제 : Architecture-level variant
+>- 스터디 진행 : 7/30
 >- 발표자 : 김명섭 석박통합과정
 
 **07) Appendix : 당신이 모르는 transformer의 3가지 사실**
