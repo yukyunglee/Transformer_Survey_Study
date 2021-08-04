@@ -54,7 +54,10 @@
 
 **00) Introduction**
 
-[![image](https://user-images.githubusercontent.com/37654013/128206701-a8bff43a-ad0b-4ce9-bdda-c15087c5fcbe.png)](https://www.youtube.com/watch?v=pOdLQIjGfl0&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-)
+
+<a href="https://www.youtube.com/watch?v=pOdLQIjGfl0&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-">
+         <img width="600" height="320" src="https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/img/tss_main.png?raw=true">
+</a>
 
 >- [영상](https://www.youtube.com/watch?v=pOdLQIjGfl0&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%230_intro.pdf)
 >- 발표자 : 이유경 박사과정
@@ -63,7 +66,9 @@
 
 **01) Transformer basic (1~6 Page)**
 
-[![image](https://user-images.githubusercontent.com/37654013/128207724-04c33606-7850-4031-87a9-d5fe590d39ba.png)](https://www.youtube.com/watch?v=rjHaxK2iWX4&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=2)
+<a href="https://www.youtube.com/watch?v=rjHaxK2iWX4&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=2">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128216258-3ac1ad55-0fd2-4985-872f-0bc09305a764.png">
+</a>
 
 >- [영상](https://www.youtube.com/watch?v=rjHaxK2iWX4&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=2) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%231_Transformer_Basic.pdf)
 >- 주제 : Vanilla Transformer
@@ -72,7 +77,10 @@
 
 **02) Module-level : Attention 1 (6~11 Page)**
 
-[![image](https://user-images.githubusercontent.com/37654013/128207862-8a033bf3-e555-4d0d-8eaf-2c4d830b1dc1.png)](https://www.youtube.com/watch?v=m8rWN2-VkcU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=4)
+<a href="https://www.youtube.com/watch?v=m8rWN2-VkcU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=4">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128216765-38610e67-28ba-4b11-99d6-27ccf1bd9d3c.png">
+</a>
+
 >- [영상](https://www.youtube.com/watch?v=m8rWN2-VkcU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=4) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%232_Sparse_Attention.pdf)
 >- 주제 : Sparse Attention
 >- 스터디 진행 : 7/21
@@ -80,7 +88,10 @@
 
 **03) Module-level : Attention 2  (11~15 Page)**
 
-[![image](https://user-images.githubusercontent.com/37654013/128207899-c9ec1285-aba0-48e6-af25-8b026513f726.png)](https://www.youtube.com/watch?v=FNGcX23DFLU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=5)
+<a href="https://www.youtube.com/watch?v=FNGcX23DFLU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=5">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128217071-705e4056-c260-42f5-9e00-e68f77041641.png">
+</a>
+
 >- [영상](https://www.youtube.com/watch?v=FNGcX23DFLU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=5) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%233_Linearized_Attention_Prototype_and_Memory_Compression.pdf)
 >- 주제 : Linearized / Prototype / Memory Compress Attention
 >- 스터디 진행 : 7/27
@@ -88,7 +99,9 @@
 
 **04) Module-level : Attention 3  (15~20 Page)**
 
-[![image](https://user-images.githubusercontent.com/37654013/128210886-bcbef9bf-1092-412d-b2e1-e0e2427d4680.png)](https://www.youtube.com/watch?v=aN1Yn2QWDHc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=6)
+<a href="https://www.youtube.com/watch?v=aN1Yn2QWDHc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=6">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128217175-d023e186-9b41-433e-9493-1a8f4a1dbf1b.png">
+</a>
 
 >- [영상](https://www.youtube.com/watch?v=aN1Yn2QWDHc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=6) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/eea1533802a9edf4c6cb2adc384900f85f38f9df/Presentation/TSS_%234_Lowrank_Prior_Improved_Attention.pdf.pdf)
 >- 주제 : LowRank SeltAttention / Attention with Prior / Improved Multi-Head Mechanism
@@ -97,7 +110,9 @@
 
 **05) Module-level : Others  (20~26 Page)**
 
-[![image](https://user-images.githubusercontent.com/37654013/128210974-26074af6-3d1c-4664-9d58-324cf21322fe.png)](https://www.youtube.com/watch?v=9wTkdGAgT7w&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=7)
+<a href="https://www.youtube.com/watch?v=9wTkdGAgT7w&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=7">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128217255-79223abd-b4e3-4352-a1ad-97ebc76a7bbd.png">
+</a>
 
 >- [영상](https://www.youtube.com/watch?v=9wTkdGAgT7w&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=7) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TSS_%235_Other_Module_Level_Modifications.pdf)
 >- 주제 : Position Encoding / LayerNorm / FFN
@@ -106,7 +121,9 @@
 
 **06) Arch.-level ~ end  (26~33 Page)**
 
-[![image](https://user-images.githubusercontent.com/37654013/128215129-a83b616e-65da-45ff-a451-c79ecccfbf4a.png)](https://www.youtube.com/watch?v=Mtimidtm3zc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=9)
+<a href="https://www.youtube.com/watch?v=Mtimidtm3zc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=9">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128217328-923814e9-f56d-495a-aa86-707daab793b7.png">
+</a>
 
 >- [영상](https://www.youtube.com/watch?v=Mtimidtm3zc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=9) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TTS_%236_Architectur_Level_Varient.pdf)
 >- 주제 : Architecture-level variant
@@ -115,7 +132,10 @@
 
 **07) Appendix : 당신이 모르는 transformer의 3가지 사실**
 
-[![image](https://user-images.githubusercontent.com/37654013/128215181-c11f4a42-af3d-4daf-a703-7761de06d35a.png)](https://www.youtube.com/watch?v=ktYuOq3lWyY&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=8)
+<a href="https://www.youtube.com/watch?v=ktYuOq3lWyY&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=8">
+         <img width="600" height="320" src="https://user-images.githubusercontent.com/37654013/128217455-f6da9969-4f5b-43f0-b7aa-e9fc893ac42f.png">
+</a>
+
 
 >- [영상](https://www.youtube.com/watch?v=ktYuOq3lWyY&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=8) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TTS_Appendix_Complexity_Parameters_Scaling.pdf)
 >- 주제 : [Transformer] Complexity, Parameters, and Scaling
