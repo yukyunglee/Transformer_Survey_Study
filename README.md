@@ -54,7 +54,7 @@
 
 **01) Transformer basic (1~6 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%231_Transformer_Basic.pdf)
+>- [영상](https://youtu.be/rjHaxK2iWX4) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%231_Transformer_Basic.pdf)
 >- 주제 : Vanilla Transformer
 >- 스터디 진행 : 7/20
 >- 발표자 : 김수빈 석사과정
