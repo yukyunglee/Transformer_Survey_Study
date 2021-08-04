@@ -52,52 +52,73 @@
 
 ## 3. 스터디 운영 
 
+**00) Introduction**
+
+[![image](https://user-images.githubusercontent.com/37654013/128206701-a8bff43a-ad0b-4ce9-bdda-c15087c5fcbe.png)](https://www.youtube.com/watch?v=pOdLQIjGfl0&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-)
+
+>- [영상](https://www.youtube.com/watch?v=pOdLQIjGfl0&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%230_intro.pdf)
+>- 발표자 : 이유경 박사과정
+>- 편집 : 윤훈상 석사과정, 허재혁 석사과정
+
+
 **01) Transformer basic (1~6 Page)**
 
->- [영상](https://youtu.be/rjHaxK2iWX4) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%231_Transformer_Basic.pdf)
+[![image](https://user-images.githubusercontent.com/37654013/128207724-04c33606-7850-4031-87a9-d5fe590d39ba.png)](https://www.youtube.com/watch?v=rjHaxK2iWX4&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=2)
+
+>- [영상](https://www.youtube.com/watch?v=rjHaxK2iWX4&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=2) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%231_Transformer_Basic.pdf)
 >- 주제 : Vanilla Transformer
 >- 스터디 진행 : 7/20
 >- 발표자 : 김수빈 석사과정
 
 **02) Module-level : Attention 1 (6~11 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%232_Sparse_Attention.pdf)
+[![image](https://user-images.githubusercontent.com/37654013/128207862-8a033bf3-e555-4d0d-8eaf-2c4d830b1dc1.png)](https://www.youtube.com/watch?v=m8rWN2-VkcU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=4)
+>- [영상](https://www.youtube.com/watch?v=m8rWN2-VkcU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=4) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%232_Sparse_Attention.pdf)
 >- 주제 : Sparse Attention
 >- 스터디 진행 : 7/21
 >- 발표자 : 윤훈상 석사과정
 
 **03) Module-level : Attention 2  (11~15 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%233_Linearized_Attention_Prototype_and_Memory_Compression.pdf)
+[![image](https://user-images.githubusercontent.com/37654013/128207899-c9ec1285-aba0-48e6-af25-8b026513f726.png)](https://www.youtube.com/watch?v=FNGcX23DFLU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=5)
+>- [영상](https://www.youtube.com/watch?v=FNGcX23DFLU&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=5) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%233_Linearized_Attention_Prototype_and_Memory_Compression.pdf)
 >- 주제 : Linearized / Prototype / Memory Compress Attention
 >- 스터디 진행 : 7/27
 >- 발표자 : 김지나 석박통합과정
 
 **04) Module-level : Attention 3  (15~20 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/eea1533802a9edf4c6cb2adc384900f85f38f9df/Presentation/TSS_%234_Lowrank_Prior_Improved_Attention.pdf.pdf)
+[![image](https://user-images.githubusercontent.com/37654013/128210886-bcbef9bf-1092-412d-b2e1-e0e2427d4680.png)](https://www.youtube.com/watch?v=aN1Yn2QWDHc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=6)
+
+>- [영상](https://www.youtube.com/watch?v=aN1Yn2QWDHc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=6) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/eea1533802a9edf4c6cb2adc384900f85f38f9df/Presentation/TSS_%234_Lowrank_Prior_Improved_Attention.pdf.pdf)
 >- 주제 : LowRank SeltAttention / Attention with Prior / Improved Multi-Head Mechanism
 >- 스터디 진행 : 7/28
 >- 발표자 : 이유경 석박통합과정
 
 **05) Module-level : Others  (20~26 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TSS_%235_Other_Module_Level_Modifications.pdf)
+[![image](https://user-images.githubusercontent.com/37654013/128210974-26074af6-3d1c-4664-9d58-324cf21322fe.png)](https://www.youtube.com/watch?v=9wTkdGAgT7w&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=7)
+
+>- [영상](https://www.youtube.com/watch?v=9wTkdGAgT7w&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=7) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TSS_%235_Other_Module_Level_Modifications.pdf)
 >- 주제 : Position Encoding / LayerNorm / FFN
 >- 스터디 진행 : 7/29
 >- 발표자 : 허재혁 석사과정
 
 **06) Arch.-level ~ end  (26~33 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TTS_%236_Architectur_Level_Varient.pdf)
+[![image](https://user-images.githubusercontent.com/37654013/128215129-a83b616e-65da-45ff-a451-c79ecccfbf4a.png)](https://www.youtube.com/watch?v=Mtimidtm3zc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=9)
+
+>- [영상](https://www.youtube.com/watch?v=Mtimidtm3zc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=9) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TTS_%236_Architectur_Level_Varient.pdf)
 >- 주제 : Architecture-level variant
 >- 스터디 진행 : 7/30
 >- 발표자 : 김명섭 석박통합과정
 
 **07) Appendix : 당신이 모르는 transformer의 3가지 사실**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TTS_Appendix_Complexity_Parameters_Scaling.pdf)
->- 주제 : [Transformer] Compleixy, Parameters, and Scaling
+[![image](https://user-images.githubusercontent.com/37654013/128215181-c11f4a42-af3d-4daf-a703-7761de06d35a.png)](https://www.youtube.com/watch?v=ktYuOq3lWyY&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=8)
+
+>- [영상](https://www.youtube.com/watch?v=ktYuOq3lWyY&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=8) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TTS_Appendix_Complexity_Parameters_Scaling.pdf)
+>- 주제 : [Transformer] Complexity, Parameters, and Scaling
 >- 스터디 진행 : 7/28
 >- 발표자 : 김명섭 석박통합과정
 
