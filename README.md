@@ -68,7 +68,7 @@
 
 **03) Module-level : Attention 2  (11~15 Page)**
 
->- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TSS_%233_Attention%232.pdf)
+>- 영상 / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TSS_%233_Linearized_Attention_Prototype_and_Memory_Compression.pdf)
 >- 주제 : Linearized / Prototype / Memory Compress Attention
 >- 스터디 진행 : 7/27
 >- 발표자 : 김지나 석박통합과정
