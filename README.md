@@ -28,7 +28,7 @@
 
 : 이 스터디는 서베이 논문에서 나오는 모든 논문중에서 노란색으로 표시된 논문을 다룹니다 (초록색: 연구실 세미나에서 다룬 적 있음)
 
-![main](./img/paper_all.png)
+<img src="./img/paper_all.png" alt="main" style="zoom:40%;" />
 
 #### 1) 스터디 목적
 
