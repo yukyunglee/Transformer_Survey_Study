@@ -132,7 +132,7 @@
 >- [영상](https://www.youtube.com/watch?v=Mtimidtm3zc&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=9) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/a2f9375ec1bcd75e33581461b89a61b7b125d7a2/Presentation/TTS_%236_Architectur_Level_Varient.pdf)
 >- 주제 : Architecture-level variant
 >- 스터디 진행 : 7/30
->- 발표자 : 김명섭 석박통합과정
+>- 발표자 : 김명섭 석사과정
 
 **07) Appendix : 당신이 모르는 transformer의 3가지 사실**
 
@@ -144,7 +144,7 @@
 >- [영상](https://www.youtube.com/watch?v=ktYuOq3lWyY&list=PLetSlH8YjIfXCRQ28UHh07wxkIxdU5c7-&index=8) / [발표자료](https://github.com/yukyunglee/Transformer_Survey_Study/blob/main/Presentation/TTS_Appendix_Complexity_Parameters_Scaling.pdf)
 >- 주제 : [Transformer] Complexity, Parameters, and Scaling
 >- 스터디 진행 : 7/28
->- 발표자 : 김명섭 석박통합과정
+>- 발표자 : 김명섭 석사과정
 
 
 
